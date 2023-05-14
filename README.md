@@ -1,6 +1,6 @@
 # astro-vue-template
 
-A Astro + vue template for building apps and deploying on vercel.
+An Astro + vue template for building apps and deploying on vercel.
 
 ## Usage
 
@@ -17,9 +17,9 @@ npx create-astro@latest -e https://github.com/YuriSamp/astro-vue-template
 
 ## Recomendations
 
--If you looking something like radix, go look [zagjs](https://zagjs.com)
--If you want cool fonts, go look [fontshare](https://www.fontshare.com)
--If you want amazing illustration, go look [popsy.co](https://popsy.co/illustrations)
+- If you looking something like radix, go look [zagjs](https://zagjs.com)
+- If you want cool fonts, go look [fontshare](https://www.fontshare.com)
+- If you want amazing illustration, go look [popsy.co](https://popsy.co/illustrations)
 
 ## License
 
